@@ -7,7 +7,7 @@
 
 ---
 
-## � About Me  
+## 👨‍💻 About Me  
 I’m a 10th grader passionate about Linux, customizing my system (ricing 🍚), and exploring the world of programming. Currently, I’m diving into **C** and **C++** to build a strong foundation in coding.  
 
 ---
